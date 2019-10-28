@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Feeding Rate</string>
+
+    <string name="calculate">Hitung</string>
+    <string name="reset">Reset</string>
+
+    <string name="input">Input</string>
+    <string name="input_fish_mass">Berat massa ikan</string>
+    <string name="input_fish_amount">Jumlah tebar ikan</string>
+    <string name="input_pool_temperature">Temperatur kolam</string>
+    <string name="input_pool_oxygen_level">Kadar oksigen kolam</string>
+    <string name="input_frequency_feeding">Frekuensi pemberian pakan / hari</string>
+    <string name="suffix_fish_mass">gram</string>
+    <string name="suffix_fish_amount">ekor</string>
+    <string name="suffix_pool_temperature">\u2103</string>
+    <string name="suffix_pool_oxygen_level">%</string>
+    <string name="suffix_frequency_feeding">kali</string>
+
+    <string name="output">Output</string>
+    <string name="output_feeding_rate">Feeding rate ikan</string>
+    <string name="output_amount_fish_food">Jumlah pakan yang diberikan</string>
+    <string name="suffix_feeding_rate">%</string>
+    <string name="suffix_amount_fish_food">gr</string>
+
+    <string name="feedback_menu_reset">Input direset</string>
+
+    <string name="error_input">Masih terdapat input yang kosong</string>
+    <string name="error_fail_load_file">Gagal mengambil file $s</string>
+</resources>
