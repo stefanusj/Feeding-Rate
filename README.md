@@ -1,7 +1,10 @@
 # Feeding Rate
-[![Eternal-Loops](https://img.shields.io/badge/company-eternal--loops-blue?style=flat-square)](https://android-arsenal.com/api?level=21)
+[![Eternal-Loops](https://img.shields.io/badge/company-Eternal--Loops-blue?style=flat-square)](http://eternal-loops.com)
 [![platform](https://img.shields.io/badge/platform-Android-yellow.svg?style=flat-square)](https://www.android.com)
 [![API](https://img.shields.io/badge/API-21%2B-green?style=flat-square)](https://android-arsenal.com/api?level=21)
+
+Aplikasi sederhana menggunakan fuzzy untuk menghitung persentase pemberian pakan harian berdasarkan temperatur dan kadar oksigen 
+menggunakan library jFuzzyLogic
 
 ## Screenshots
 
@@ -23,6 +26,10 @@
 ### Output
 
 <kbd><img src="https://github.com/stefanusj/Feeding-Rate/blob/master/screenshot/feeding_membership.png"></kbd>
+
+### Rule
+
+<kbd><img src="https://github.com/stefanusj/Feeding-Rate/blob/master/screenshot/feeding_rule.jpeg"></kbd>
 
 ## Libraries
 This is a list of libraries used in this app
