@@ -1,5 +1,5 @@
 # Feeding Rate
-[![Eternal-Loops](https://img.shields.io/badge/company-Eternal--Loops-blue?style=flat-square)](http://eternal-loops.com)
+[![Eternal-Loops](https://img.shields.io/badge/organization-Eternal--Loops-blue?style=flat-square)](http://eternal-loops.com)
 [![platform](https://img.shields.io/badge/platform-Android-yellow.svg?style=flat-square)](https://www.android.com)
 [![API](https://img.shields.io/badge/API-21%2B-green?style=flat-square)](https://android-arsenal.com/api?level=21)
 
